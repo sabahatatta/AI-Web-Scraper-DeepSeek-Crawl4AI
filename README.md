@@ -25,7 +25,7 @@
 ---
 ## 📂 Project Structure
 
-
+```
 ├── main.py            # Main entry point for running the scraper
 ├── config.py          # Configuration settings (Base URL, CSS selectors, etc.)
 ├── models/
@@ -40,6 +40,7 @@
 ├── venues.csv         # Output file containing the extracted venue data
 └── README.md          # Comprehensive documentation for the project
 
+```
 
 ---
 ## ⚙️ Application Workflow 
