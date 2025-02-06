@@ -1,5 +1,3 @@
-```markdown
-
 # AI-Web-Scraper-DeepSeek-Crawl4AI
 
 **DeepSeek Crawler** is a powerful, Python-based web scraper designed to extract venue data (e.g., wedding reception venues) using **Crawl4AI** for asynchronous crawling and **LLM-based extraction** for intelligent parsing. The collected data is efficiently stored in a structured CSV format, making it easy to analyze and utilize.
@@ -27,7 +25,7 @@
 ---
 ## 📂 Project Structure
 
-```
+
 ├── main.py            # Main entry point for running the scraper
 ├── config.py          # Configuration settings (Base URL, CSS selectors, etc.)
 ├── models/
@@ -41,7 +39,7 @@
 ├── .env               # Environment variable file for securely storing API keys
 ├── venues.csv         # Output file containing the extracted venue data
 └── README.md          # Comprehensive documentation for the project
-```
+
 
 ---
 ## ⚙️ Application Workflow 
